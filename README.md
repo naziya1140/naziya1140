@@ -1,4 +1,4 @@
- ▫️ Persuing B.Tech in Computer Science.
+ <br>▫️ Persuing B.Tech in Computer Science.</br>
  ▫️ Exploring and growing in Web Development  
  ▫️ Working on sharpening my problem-solving skills.  
 
