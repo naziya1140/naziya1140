@@ -1,4 +1,6 @@
-🔭 I’m currently studying at  Narula Institute of Technology.<br>🌱 I’m currently learning Web Development.
+ ▫️ Persuing B.Tech in Computer Science.
+ ▫️ Exploring and growing in Web Development  
+ ▫️ Working on sharpening my problem-solving skills.  
 
 
 # 💻 Tech Stack:
